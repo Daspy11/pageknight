@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pageknight/precache-manifest.cd19a9fa2fbfc4263d30dfd2f097a83c.js"
+  "/pageknight/precache-manifest.2a0336397a1c62e69cfe20689e4bdbfa.js"
 );
 
 self.addEventListener('message', (event) => {

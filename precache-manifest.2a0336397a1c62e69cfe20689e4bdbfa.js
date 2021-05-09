@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adb25d862c4e21c8522aab2ac165e8ac",
+    "revision": "60be072e65140ff66b2fe58af50b97a2",
     "url": "/pageknight/index.html"
   },
   {
