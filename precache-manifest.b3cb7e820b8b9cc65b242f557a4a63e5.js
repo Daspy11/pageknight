@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4d8d793203ef501774e4154eff02c7b",
+    "revision": "efb597bcf632a022074b5ac87b81afb7",
     "url": "/index.html"
   },
   {
-    "revision": "a812234638385cdf701d",
+    "revision": "dd72bc4cc76569e55def",
     "url": "/static/css/main.b93226ee.chunk.css"
   },
   {
-    "revision": "8041c70827fb30f69d4d",
-    "url": "/static/js/2.f99403eb.chunk.js"
+    "revision": "d04c3313b31e9b5ff8b2",
+    "url": "/static/js/2.e29e3bb7.chunk.js"
   },
   {
-    "revision": "a812234638385cdf701d",
-    "url": "/static/js/main.4767589d.chunk.js"
+    "revision": "dd72bc4cc76569e55def",
+    "url": "/static/js/main.b4c61f13.chunk.js"
   },
   {
     "revision": "d1559c3e25eac1044880",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5a04b9c21ce7e8cdbe01d2fd3c48f872",
     "url": "/static/media/logo.5a04b9c2.svg"
+  },
+  {
+    "revision": "b0aed51ff729da491beda13dd0f14c0d",
+    "url": "/static/media/macbook-dashboard.b0aed51f.png"
   },
   {
     "revision": "664d079f7bab0850114417d1b1ed2624",
